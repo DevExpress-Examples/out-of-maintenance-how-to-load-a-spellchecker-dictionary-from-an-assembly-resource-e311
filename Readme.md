@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication27/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication27/Form1.vb))
+* [Program.cs](./CS/WindowsApplication27/Program.cs) (VB: [Program.vb](./VB/WindowsApplication27/Program.vb))
+<!-- default file list end -->
 # How to load a spellchecker dictionary from an assembly resource
 
 
